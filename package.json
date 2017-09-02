@@ -1,0 +1,31 @@
+{
+  "name": "@polymer/iron-pages",
+  "version": "2.0.0",
+  "description": "Organizes a set of pages and shows one at a time",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/spezifanta/iron-pages.git"
+  },
+  "keywords": [
+    "web-components",
+    "polymer",
+    "container"
+  ],
+  "contributors": [
+    "The Polymer Authors"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "@polymer/iron-resizable-behavior": "^0.0.3",
+    "@polymer/iron-demo-helpers": "^0.0.3",
+    "@polymer/iron-selector": "^0.0.3",
+    "@polymer/polymer": "^1.2.5-npm-test.2"
+  },
+  "devDependencies": {
+    "@polymer/paper-styles": "^0.0.3",
+    "@polymer/iron-component-page": "^0.0.3",
+    "@polymer/test-fixture": "^0.0.3",
+    "web-component-tester": "^4.0.0",
+    "webcomponents.js": "^0.7.0"
+  }
+}
